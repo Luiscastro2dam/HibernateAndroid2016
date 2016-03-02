@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_anadir"
+        android:title="@string/menu_anadir"/>
+    <item
+        android:id="@+id/menu_sincronizar"
+        android:title="@string/menu_sincronizar"/>
+</menu>

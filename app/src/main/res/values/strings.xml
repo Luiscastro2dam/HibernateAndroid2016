@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HibernateAndroid2016</string>
+
+    <string name="login">Login</string>
+    <string name="entrar">Entrar</string>
+    <string name="registrar">Registrarte</string>
+    <string name="registrate2">Registrate</string>
+    <string name="email">Email</string>
+    <string name="contraseña">contraseña</string>
+
+    <string name="menu_mostrar">Detalles</string>
+    <string name="menu_anadir">Añadir Nota</string>
+    <string name="menu_sincronizar">Sincronizar</string>
+
+    <string name="btguardar">Guardar</string>
+    <string name="btatras">Salir</string>
+    <string name="btupdate">Modificar</string>
+
+    <string name="borrar">Borrar</string>
+
+
+
+</resources>
